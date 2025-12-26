@@ -1,0 +1,2 @@
+# galeri-foto-tartarxya
+foto
